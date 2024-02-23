@@ -3,7 +3,7 @@
 This project aims to recreate the functionality of the standard C printf function. The printf function in C is used for formatted output, allowing developers to print data to the console with various formatting options.
 
 ## Features
-This ft_printf function supports the following format specifiers:</br>
+> This ft_printf function supports the following format specifiers:</br>
 &#x2714; %c - prints a single character;</br>
 &#x2714; %s - prints a string;</br>
 &#x2714; %p - the void * pointer argument has to be printed in hexadecimal format;</br>
