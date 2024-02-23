@@ -5,15 +5,15 @@ This project aims to recreate the functionality of the standard C printf functio
 ## Features
 > This ft_printf function supports the following format specifiers:</br>
 
-&#x2714; %c - prints a single character;</br>
-&#x2714; %s - prints a string;</br>
-&#x2714; %p - the void * pointer argument has to be printed in hexadecimal format;</br>
-&#x2714; %d - prints a decimal (base 10) number;</br>
-&#x2714; %i - prints an integer in base 10;</br>
-&#x2714; %u - prints an unsigned decimal (base 10) number;</br>
-&#x2714; %x - prints a number in hexadecimal (base 16) lowercase format;</br>
-&#x2714; %X - prints a number in hexadecimal (base 16) uppercase format;</br>
-&#x2714; %% - prints a percent sign;</br>
+&#x2714; **%c** - prints a single character;</br>
+&#x2714; **%s** - prints a string;</br>
+&#x2714; **%p** - the void * pointer argument has to be printed in hexadecimal format;</br>
+&#x2714; **%d** - prints a decimal (base 10) number;</br>
+&#x2714; **%i** - prints an integer in base 10;</br>
+&#x2714; **%u** - prints an unsigned decimal (base 10) number;</br>
+&#x2714; **%x** - prints a number in hexadecimal (base 16) lowercase format;</br>
+&#x2714; **%X** - prints a number in hexadecimal (base 16) uppercase format;</br>
+&#x2714; **%%** - prints a percent sign;</br>
 
 ## Usage
 1. Clone the repository
