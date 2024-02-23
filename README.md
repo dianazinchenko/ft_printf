@@ -18,7 +18,7 @@ This project aims to recreate the functionality of the standard C printf functio
 ## Usage
 1. Clone the repository
    ```
-   git clone git@github.com:dianazinchenko/libft.git
+   git clone git@github.com:dianazinchenko/ft_printf.git
 2. Go inside the project folder and compile the library
    ```bash
    cd ft_printf
