@@ -16,7 +16,8 @@ This ft_printf function supports the following format specifiers:
 
 ## Usage
 1. Clone the repository
-`git clone git@github.com:dianazinchenko/libft.git`
+   ```
+   git clone git@github.com:dianazinchenko/libft.git
 2. Go inside the project folder and compile the library
    ```bash
    cd ft_printf
